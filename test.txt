@@ -1,2 +1,3 @@
 Фігури: ромб, трикутник, прямокутник, квадрат.
-Shapes: cone, triangle, rectangle, square.
+Shapes: cube, triangle, rectangle, square.
+
